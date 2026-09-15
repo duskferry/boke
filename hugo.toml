@@ -1,7 +1,7 @@
 baseURL = "https://duskferry.github.io/boke/"
 languageCode = "zh-cn"
 defaultContentLanguage = "zh-cn"
-title = "Wei's Blog"
+title = "暮渡的博客"
 theme = "PaperMod"
 pagination.pagerSize = 10
 enableRobotsTXT = true
@@ -13,7 +13,7 @@ enableEmoji = true
 [params]
   env = "production"
   description = "后端工程师 · 技术笔记与思考"
-  author = "Wei"
+  author = "暮渡"
   defaultTheme = "auto"
   ShowReadingTime = true
   ShowShareButtons = false
@@ -26,7 +26,7 @@ enableEmoji = true
 
   [params.profileMode]
     enabled = true
-    title = "Wei"
+    title = "暮渡"
     subtitle = "Backend Engineer · 记录技术与生活"
     imageUrl = "avatar.svg"
     imageTitle = "avatar"
@@ -36,7 +36,7 @@ enableEmoji = true
     ]
 
   [params.label]
-    text = "Wei's Blog"
+    text = "暮渡的博客"
     icon = "avatar.svg"
     iconHeight = 35
 
