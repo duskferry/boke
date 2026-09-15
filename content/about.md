@@ -30,7 +30,7 @@ showToc: false
 ## 联系方式
 
 - **GitHub**：[@duskferry](https://github.com/duskferry)
-- **Email**：weizhewu232623@gmail.com
+- **Email**：2316860587@qq.com
 
 ---
 
