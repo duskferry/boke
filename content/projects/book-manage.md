@@ -23,7 +23,7 @@ weight: 2
 
 管理端面向馆员，覆盖图书入库、分类维护、用户管理、借阅审核、公告发布与操作审计；用户端面向读者，支持图书检索与浏览、在线申请借阅、查看个人借阅记录及个人资料维护。整体设计贴近真实图书馆「采编—流通—读者服务」业务流程，适合作为 Java Web 全栈学习与毕设答辩参考。
 
-**源码仓库**：[github.com/weizhewu/book-manage](https://github.com/weizhewu/book-manage)
+**源码仓库**：[github.com/duskferry/book-manage](https://github.com/duskferry/book-manage)
 
 ## 系统架构
 

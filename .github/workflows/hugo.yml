@@ -34,7 +34,7 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --minify --gc --baseURL https://weizhewu.github.io/boke/
+        run: hugo --minify --gc --baseURL https://duskferry.github.io/boke/
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

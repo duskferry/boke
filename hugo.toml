@@ -1,4 +1,4 @@
-baseURL = "https://weizhewu.github.io/boke/"
+baseURL = "https://duskferry.github.io/boke/"
 languageCode = "zh-cn"
 defaultContentLanguage = "zh-cn"
 title = "Wei's Blog"
@@ -46,7 +46,7 @@ enableEmoji = true
 
 [[params.socialIcons]]
   name = "github"
-  url = "https://github.com/weizhewu"
+  url = "https://github.com/duskferry"
 
 [[params.socialIcons]]
   name = "email"

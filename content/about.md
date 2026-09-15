@@ -29,7 +29,7 @@ showToc: false
 
 ## 联系方式
 
-- **GitHub**：[@weizhewu](https://github.com/weizhewu)
+- **GitHub**：[@duskferry](https://github.com/duskferry)
 - **Email**：weizhewu232623@gmail.com
 
 ---
